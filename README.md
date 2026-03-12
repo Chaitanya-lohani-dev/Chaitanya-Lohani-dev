@@ -13,16 +13,16 @@
 
 ## 👋 About Me
 
-Backend-focused software developer building **scalable web platforms and production-ready systems**.
+Backend-focused software developer building **scalable web applications and production-ready systems**.
 
-I enjoy designing **backend architecture, authentication systems, distributed services, and deployment infrastructure**.
+I enjoy designing **backend APIs, authentication systems, database schemas, and deployment infrastructure**.
 
-Currently focused on:
+Currently working with:
 
-• Backend engineering  
-• System design  
-• Scalable web platforms  
-• Production deployments
+• Node.js backend systems  
+• REST API design
+• Full-stack applications with Next.js
+• Dockerized deployments
 
 Previously served as **President of the Institution's Innovation Council**, leading developer programs, hackathons, and innovation initiatives.
 
@@ -31,7 +31,8 @@ Previously served as **President of the Institution's Innovation Council**, lead
 # 🚀 Systems I Designed
 
 ### Student Internship Portal
-
+🔗 Live: http://72.61.243.51
+📦 Repo: 
 A full-stack platform designed to help students discover **legitimate internships while preventing fake opportunities**.
 
 Engineering Highlights:
@@ -49,7 +50,8 @@ Tech Stack
 ---
 
 ### QRify — QR Code Platform
-
+🔗 Live: https://qr-code-generator-ten-taupe.vercel.app
+📦 Repo: 
 A full-stack platform that allows users to **generate and manage QR codes**.
 
 Engineering Highlights:
