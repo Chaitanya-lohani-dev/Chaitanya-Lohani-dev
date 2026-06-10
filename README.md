@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/chaitanya-lohani/">
     <img src="https://img.shields.io/badge/LinkedIn-Chaitanya_Lohani-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://chaitanya-lohani.vercel.app/">
+  <a href="[https://chaitanya-lohani.vercel.app/](https://fullstack-website-k2fw.onrender.com/)">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -31,7 +31,7 @@ Previously served as **President of the Institution's Innovation Council**, lead
 # 🚀 Systems I Designed
 
 ### Student Internship Portal
-🔗 Live: http://72.61.243.51
+🔗 Live: https://careers.chaitanya-lohani.me \\
 📦 Repo: 
 A full-stack platform designed to help students discover **legitimate internships while preventing fake opportunities**.
 
@@ -115,7 +115,7 @@ https://linkedin.com/in/chaitanya-lohani
 chaitanyalohani945@gmail.com
 
 🌐 Portfolio  
-https://chaitanya-lohani.vercel.app
+[https://chaitanya-lohani.vercel.app](https://fullstack-website-k2fw.onrender.com/)
 
 ---
 
